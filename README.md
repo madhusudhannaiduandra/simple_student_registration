@@ -50,21 +50,7 @@ Enter the student details and click Register to submit the form.
 
 After submission, a success message will be displayed.
 
-File Structure
-bash
-Copy
-Edit
-/student-registration-system
-│
-├── /web
-│   ├── registration_form.html    # HTML form for student registration
-│   └── /css
-│       └── style.css             # Styling for the registration form
-│
-├── /src
-│   └── RegisterServlet.java      # Java Servlet to handle registration
-│
-└── README.md                    # Project documentation
+
 Future Improvements
 Database Integration: Store student data persistently using a database like MySQL or SQLite.
 
